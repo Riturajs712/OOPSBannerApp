@@ -4,13 +4,13 @@ public class OOPSBannerUC5 {
 
         String[] lines = {
 
-                String.join(" ", "  ***  ", " ***** "),
-                String.join(" ", " *   * ", " *     "),
-                String.join(" ", "*     *", "*      "),
-                String.join(" ", "*     *", " ***** "),
-                String.join(" ", "*     *", "      *"),
-                String.join(" ", " *   * ", " *    *"),
-                String.join(" ", "  ***  ", " ***** ")
+                String.join("  ", "  ***  ", "  ***  ", " ***** ", " ***** "),
+                String.join("  ", " *   * ", " *   * ", " *   * ", " *     "),
+                String.join("  ", "*     *", "*     *", "*     *", "*     "),
+                String.join("  ", "*     *", "*     *", " ***** ", " ***** "),
+                String.join("  ", "*     *", "*     *", "*      ", "      *"),
+                String.join("  ", " *   * ", " *   * ", "*       ", " *    *"),
+                String.join("  ", "  ***  ", "  ***  ", "*       ", " ***** ")
 
         };
 
