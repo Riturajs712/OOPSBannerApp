@@ -9,7 +9,7 @@ public class OOPSBannerUC7 {
 
         public CharacterPattern(char character, String[] pattern) {
             this.character = character;
-            this.pattern = pattern;~
+            this.pattern = pattern;
         }
 
         public char getCharacter() {
